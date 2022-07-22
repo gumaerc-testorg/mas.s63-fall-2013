@@ -13,10 +13,10 @@ image_metadata:
   image-alt: A woman gazes at her tricorder, decoding the various signs and signals
     of life.
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 resourcetype: Image
 title: Tricorder
 uid: 02586f6b-bafa-e0cd-921b-d9671531cbf0
 ---
 Detail of the photograph "Tricorder." Original photograph by Trevor H on flickr.
-
