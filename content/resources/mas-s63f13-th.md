@@ -3,6 +3,7 @@ content_type: resource
 description: Detail of the photograph "Tricorder." Original photograph by Trevor H
   on flickr.
 file: /courses/mas-s63-engineering-health-towards-the-tricorder-fall-2013/725c588c425def6a17a0d0ccc454b464_mas-s63f13-th.jpg
+file_size: 5035
 file_type: image/jpeg
 image_metadata:
   caption: "Detail of the photograph \"Tricorder,\"\_showing a toy based on a device\
