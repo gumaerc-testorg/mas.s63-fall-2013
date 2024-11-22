@@ -32,7 +32,7 @@ Introduction to Health and Wellness Fabrication
 {{< tdclose >}}{{< tdopen >}}
 Medical Fabrication Tools
 {{< tdclose >}}{{< tdopen >}}
-[Tricorder X-Prize](http://www.qualcommtricorderxprize.org/)—Complete information about the competition, including guidelines, schedule, and requirements
+[Tricorder X-Prize](https://www.xprize.org/prizes/tricorder)—Complete information about the competition, including guidelines, schedule, and requirements
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 2
 {{< tdclose >}}{{< tdopen >}}
@@ -53,7 +53,7 @@ Martinez, Andres W. "[Three—dimensional Microfluidic Device Fabricated in Laye
 
 Paper diagnostics Combur-10 test: Combur-Test® Product Line. Roche Diagnotics. Accessed December 20, 2010.
 
-Grifantini, Kristina. "[TR10: Paper Diagnostics](http://www2.technologyreview.com/news/412187/tr10-paper-diagnostics/)." *Technology Review*, March/April 2009.
+Grifantini, Kristina. "[TR10: Paper Diagnostics](https://www.technologyreview.com/technology/tr10-paper-diagnostics/)." *Technology Review*, March/April 2009.
 
 Urdea, Mickey, et al. "[Requirements for High Impact Diagnostics in the Developing World](http://dx.doi.org/10.1038/nature05448)." *Nature* 444 (2006): 73–9.
 
@@ -143,8 +143,8 @@ Non-communicable Diseases
 Wearable Physiological Monitors I: Temperature, Respiration, GSR
 {{< tdclose >}}{{< tdopen >}}
 
-Disease Control Priorities Project. [*Disease Control Priorities in Developing Countries*](https://www.dcp-3.org/sites/default/files/dcp2/DCPFM.pdf) \[abstracts, PDF and full text HTML available for download\]   
-\- Chapter 30, "[Diabetes: The Pandemic and Potential Solutions](https://www.ncbi.nlm.nih.gov/books/NBK11777/)." by K. M. Venkat Narayan, et al.   
+Disease Control Priorities Project. [*Disease Control Priorities in Developing Countries*](https://www.dcp-3.org/sites/default/files/dcp2/DCPFM.pdf) \[abstracts, PDF and full text HTML available for download\]    
+\- Chapter 30, "[Diabetes: The Pandemic and Potential Solutions](https://www.ncbi.nlm.nih.gov/books/NBK11777/)." by K. M. Venkat Narayan, et al.    
 \- Chapter 33, "Cardiovascular Disease." by Thomas A. Gaziano, et al.
 
 International Atomic Energy Agency. [*A Silent Crisis: Cancer Treatment in Developing Countries (PDF)*](https://inis.iaea.org/search/search.aspx?orig_q=RN:35024620). September 2003.
@@ -153,7 +153,7 @@ McNeil Jr., Donald G. "[In India, a Quest to Ease the Pain of the Dying](http://
 
 ———. "[Procedure May Save Women In Third World From Cancer](http://www.nytimes.com/2003/03/25/health/procedure-may-save-women-in-third-world-from-cancer.html)," *New York Times*, March 25, 2003.
 
-kwinoy. "ICT4D to Scale Cervical Cancer Prevention." May 07, 2008. YouTube. Accessed August 25,2009.   
+kwinoy. "ICT4D to Scale Cervical Cancer Prevention." May 07, 2008. YouTube. Accessed August 25,2009.    
 [https://www.youtube.com/watch?v=RmqSnYyiA4E](https://www.youtube.com/watch?v=RmqSnYyiA4E)
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
@@ -174,7 +174,7 @@ Hernandez, Marita. ["Hepatitis Cases Blamed on Clinic's Use of 'Jet Gun'](http:/
 
 Anahtar, Melis N. "[Needle-Free Injectors as a Sustainable Alternative to Syringes](http://web.mit.edu/mitir/2008/spring/needle.html)." *MIT International Review*, Spring 2008.
 
-byronetics. "Aravind Eye Hospital." November 19, 2006. YouTube. Accessed August 25,2009.   
+byronetics. "Aravind Eye Hospital." November 19, 2006. YouTube. Accessed August 25,2009.    
 [https://www.youtube.com/watch?v=3cjnNPua7Ag](https://www.youtube.com/watch?v=3cjnNPua7Ag).
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
