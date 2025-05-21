@@ -3,7 +3,7 @@ content_type: resource
 description: 'Chart showing the different tracks student may take for the team project
   of the course: to design and build a health device prototype.'
 draft: false
-file: /ol-ocw-studio-app/courses/mas-s63-engineering-health-towards-the-tricorder-fall-2013/91fdcc81a56fd2d378c9b1f6f5b3fd76_syllabusfigure1.png
+file: /courses/mas-s63-engineering-health-towards-the-tricorder-fall-2013/91fdcc81a56fd2d378c9b1f6f5b3fd76_syllabusfigure1.png
 file_size: 160931
 file_type: image/png
 image_metadata:
