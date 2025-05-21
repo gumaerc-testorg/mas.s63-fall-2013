@@ -83,7 +83,7 @@ Kahn, Jonathan. "[Race in a Bottle](http://www.scientificamerican.com/article/ra
 
 Wuethrich, Bernice, ed. "[Introduction and Sustainable Use of Vaccines in Developing Countries](http://www.gatesfoundation.org/Media-Center/Press-Releases/2005/09/Sabin-Vaccine-Institute-Receives-150000-Grant)." *Proceedings of the Albert B. Sabin Vaccine Institute 12th Annual Vaccine Policy Colloquium*, October 19–21, 2005.
 
-"[Students Devise Oral Quick- dissolve Strips for Rotavirus Vaccine](https://www.eurekalert.org/pub_releases/2007-05/jhu-sdo051407.php)." Johns Hopkins University Press Release, May 14, 2007.
+"[Students Devise Oral Quick- dissolve Strips for Rotavirus Vaccine](https://www.eurekalert.org/news-releases/757657#:~:text=The%20innovative%20drug%2Ddelivery%20system,child%20to%20swallow%20the%20vaccine.)." Johns Hopkins University Press Release, May 14, 2007.
 
 Mullins, Justin. "[Immune System in a Jar](http://www.newscientist.com/blog/invention/2008/03/immune-system-in-jar.html)," *New Scientist: Invention Blog*, March 05, 2008.
 
@@ -143,8 +143,8 @@ Non-communicable Diseases
 Wearable Physiological Monitors I: Temperature, Respiration, GSR
 {{< tdclose >}}{{< tdopen >}}
 
-Disease Control Priorities Project. [*Disease Control Priorities in Developing Countries*](https://www.dcp-3.org/sites/default/files/dcp2/DCPFM.pdf) \[abstracts, PDF and full text HTML available for download\]    
-\- Chapter 30, "[Diabetes: The Pandemic and Potential Solutions](https://www.ncbi.nlm.nih.gov/books/NBK11777/)." by K. M. Venkat Narayan, et al.    
+Disease Control Priorities Project. [*Disease Control Priorities in Developing Countries*](https://www.dcp-3.org/sites/default/files/dcp2/DCPFM.pdf) \[abstracts, PDF and full text HTML available for download\]     
+\- Chapter 30, "[Diabetes: The Pandemic and Potential Solutions](https://www.ncbi.nlm.nih.gov/books/NBK11777/)." by K. M. Venkat Narayan, et al.     
 \- Chapter 33, "Cardiovascular Disease." by Thomas A. Gaziano, et al.
 
 International Atomic Energy Agency. [*A Silent Crisis: Cancer Treatment in Developing Countries (PDF)*](https://inis.iaea.org/search/search.aspx?orig_q=RN:35024620). September 2003.
@@ -153,7 +153,7 @@ McNeil Jr., Donald G. "[In India, a Quest to Ease the Pain of the Dying](http://
 
 ———. "[Procedure May Save Women In Third World From Cancer](http://www.nytimes.com/2003/03/25/health/procedure-may-save-women-in-third-world-from-cancer.html)," *New York Times*, March 25, 2003.
 
-kwinoy. "ICT4D to Scale Cervical Cancer Prevention." May 07, 2008. YouTube. Accessed August 25,2009.    
+kwinoy. "ICT4D to Scale Cervical Cancer Prevention." May 07, 2008. YouTube. Accessed August 25,2009.     
 [https://www.youtube.com/watch?v=RmqSnYyiA4E](https://www.youtube.com/watch?v=RmqSnYyiA4E)
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
@@ -174,7 +174,7 @@ Hernandez, Marita. ["Hepatitis Cases Blamed on Clinic's Use of 'Jet Gun'](http:/
 
 Anahtar, Melis N. "[Needle-Free Injectors as a Sustainable Alternative to Syringes](http://web.mit.edu/mitir/2008/spring/needle.html)." *MIT International Review*, Spring 2008.
 
-byronetics. "Aravind Eye Hospital." November 19, 2006. YouTube. Accessed August 25,2009.    
+byronetics. "Aravind Eye Hospital." November 19, 2006. YouTube. Accessed August 25,2009.     
 [https://www.youtube.com/watch?v=3cjnNPua7Ag](https://www.youtube.com/watch?v=3cjnNPua7Ag).
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
