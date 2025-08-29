@@ -143,8 +143,8 @@ Non-communicable Diseases
 Wearable Physiological Monitors I: Temperature, Respiration, GSR
 {{< tdclose >}}{{< tdopen >}}
 
-Disease Control Priorities Project. [*Disease Control Priorities in Developing Countries*](https://www.dcp-3.org/sites/default/files/dcp2/DCPFM.pdf) \[abstracts, PDF and full text HTML available for download\]     
-\- Chapter 30, "[Diabetes: The Pandemic and Potential Solutions](https://www.ncbi.nlm.nih.gov/books/NBK11777/)." by K. M. Venkat Narayan, et al.     
+Disease Control Priorities Project. [*Disease Control Priorities in Developing Countries*](https://www.dcp-3.org/sites/default/files/dcp2/DCPFM.pdf) \[abstracts, PDF and full text HTML available for download\]      
+\- Chapter 30, "[Diabetes: The Pandemic and Potential Solutions](https://www.ncbi.nlm.nih.gov/books/NBK11777/)." by K. M. Venkat Narayan, et al.      
 \- Chapter 33, "Cardiovascular Disease." by Thomas A. Gaziano, et al.
 
 International Atomic Energy Agency. [*A Silent Crisis: Cancer Treatment in Developing Countries (PDF)*](https://inis.iaea.org/search/search.aspx?orig_q=RN:35024620). September 2003.
@@ -153,7 +153,7 @@ McNeil Jr., Donald G. "[In India, a Quest to Ease the Pain of the Dying](http://
 
 ———. "[Procedure May Save Women In Third World From Cancer](http://www.nytimes.com/2003/03/25/health/procedure-may-save-women-in-third-world-from-cancer.html)," *New York Times*, March 25, 2003.
 
-kwinoy. "ICT4D to Scale Cervical Cancer Prevention." May 07, 2008. YouTube. Accessed August 25,2009.     
+kwinoy. "ICT4D to Scale Cervical Cancer Prevention." May 07, 2008. YouTube. Accessed August 25,2009.      
 [https://www.youtube.com/watch?v=RmqSnYyiA4E](https://www.youtube.com/watch?v=RmqSnYyiA4E)
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
@@ -174,7 +174,7 @@ Hernandez, Marita. ["Hepatitis Cases Blamed on Clinic's Use of 'Jet Gun'](http:/
 
 Anahtar, Melis N. "[Needle-Free Injectors as a Sustainable Alternative to Syringes](http://web.mit.edu/mitir/2008/spring/needle.html)." *MIT International Review*, Spring 2008.
 
-byronetics. "Aravind Eye Hospital." November 19, 2006. YouTube. Accessed August 25,2009.     
+byronetics. "Aravind Eye Hospital." November 19, 2006. YouTube. Accessed August 25,2009.      
 [https://www.youtube.com/watch?v=3cjnNPua7Ag](https://www.youtube.com/watch?v=3cjnNPua7Ag).
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
@@ -207,8 +207,6 @@ Geelhoed, Glenn W. [*"\_Surgery and Healing in the Developing World.*"\_ (PDF - 
 Werner, David, Carol Thurman, and Jane Maxwell. [*Where There Is No Doctor: A Village Health Care Handbook*](http://store.hesperian.org/HB/prod/B010R.html). Hesperian Foundation, 2013. ISBN: 9780942364156.
 
 Gordon, Bruce, Richard Mackay, and Evan Rehfuess. [*Inheriting the World: The Atlas of Children's Health and the Environment*](http://www.who.int/ceh/publications/atlas/en/). World Health Organization, 2004. ISBN: 9789241591560. \[Preview with [Google Books](http://books.google.com/books?id=Kd38N3odqJMC&printsec=frontcover)\]
-
-BIO Ventures for Global Health (BVGH). "[Global Health Primer](https://bvgh.org/global-health-primer/)."–A tremendous resource on diseases that form the focus in global health: background information, descriptive "disease sheets", lists of organizations, NGOs, advocacy groups, biotech companies and other partnerships, all engaged in trying to address these problems.
 
 Chowdury, Zafrin. "[Bangladesh Launches Mass Immunization Campaign after Polio Re- emerges](http://www.unicef.org/infobycountry/bangladesh_33390.html)." UNICEF, 2006.
 
